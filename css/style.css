@@ -59,8 +59,9 @@ body {
     background-color: whitesmoke;
     color: #474747;
     height: 100%;
-    font-size: 1.05em;
+    font-size: 1.1em !important;
 }
+
 .social-media {
     background-color: #8f001a;
     text-decoration: none;
@@ -77,6 +78,14 @@ body {
     text-decoration: none;
     color: whitesmoke;
     font-size: 1.2rem;
+}
+
+.text-section {
+    padding:2% 10%;
+}
+
+.smk-bg {
+    background-color: lightgrey;
 }
 
 @media (max-width: 800px){ 
